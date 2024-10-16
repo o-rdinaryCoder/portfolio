@@ -27,7 +27,7 @@ const projects = [
     description:
       "This is my personal portfolio built using Next, TypeScript, and Tailwind CSS that lists my skills, projects, and a little about me",
     image: "/portfolio.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
+    github: "https://github.com/o-rdinaryCoder/portfolio",
     link: "",
   },
 ];
