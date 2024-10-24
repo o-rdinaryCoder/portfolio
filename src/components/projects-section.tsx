@@ -11,7 +11,7 @@ const projects = [
       "Finance Tracker is a web app built using MERN stack, TypeScript and Clerk for authentication that lets you track your finances.",
     image: "/finance.webp",
     github: "https://github.com/o-rdinaryCoder/Finance-Tracker",
-    link: "https://github.com/o-rdinaryCoder/Finance-Tracker",
+    link: "https://finance-tracker-sc33.onrender.com/auth",
   },
   {
     name: "Todo List App",
