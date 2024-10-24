@@ -24,7 +24,7 @@ const HeroSection = () => {
           <p className="text-lg mt-4 mb-6 md:text-2xl">
             I&#39;m a senior at Fairleigh Dickinson University and an{" "}
             <span className="font-semibold text-cyan-600">
-              aspiring Software Developrt Intern{" "}
+              aspiring Software Developer {" "}
             </span>
             based in Vancouver, BC, actively pursing Software/Web Development Internships. 
           </p>
