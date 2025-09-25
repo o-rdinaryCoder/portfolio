@@ -39,9 +39,8 @@ const AboutSection = () => {
               <span className="font-bold">{" self-motivated"}</span>, and
               <span className="font-bold">{" driven"}</span> computer science
               student based in Vancouver, BC. I&#39;m currently a senior at
-              Fairleigh Dickinson University and seeking software development
-              internships to apply my skills and learn from industry
-              professionals.
+              Fairleigh Dickinson University and seeking opportunities to 
+              apply my skills and learn from industry professionals.
             </p>
             <br />
             <p>
