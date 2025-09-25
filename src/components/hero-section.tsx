@@ -26,7 +26,7 @@ const HeroSection = () => {
             <span className="font-semibold text-cyan-600">
               Tech Ethusiast {" "}
             </span>
-            based in Vancouver, BC, actively pursing New Grad/Full Time roles. 
+            based in Vancouver, BC, actively pursuing New Grad/Full Time roles. 
           </p>
           <Link
             to="projects"
