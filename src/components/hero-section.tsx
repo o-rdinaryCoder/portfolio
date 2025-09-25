@@ -22,11 +22,11 @@ const HeroSection = () => {
             Hi, I&#39;m Ayush!
           </h1>
           <p className="text-lg mt-4 mb-6 md:text-2xl">
-            I&#39;m a senior at Fairleigh Dickinson University and an{" "}
+            I&#39;m a senior at Fairleigh Dickinson University and a{" "}
             <span className="font-semibold text-cyan-600">
-              aspiring Software Developer {" "}
+              Tech Ethusiast {" "}
             </span>
-            based in Vancouver, BC, actively pursing Software/Web Development Internships. 
+            based in Vancouver, BC, actively pursing New Grad/Full Time roles. 
           </p>
           <Link
             to="projects"
